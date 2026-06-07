@@ -1,1 +1,15 @@
+# Carpetas temporales y de caché de Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
 
+# Archivos pesados precompilados
+*.apk
+*.mp4
+*.zip
+*.rar
